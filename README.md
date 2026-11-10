@@ -1,4 +1,4 @@
-# gopathwize-com
+# Pathwize
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gopathwize-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gopathwize.com/
+Pathwize supplies credential-verified domain experts and a cryptographic provenance trail for every judgment, so AI labs and regulated enterprises can prove how their training and evaluation data was made. It offers a verifiable, EU‑native expert layer for frontier AI, enabling transparent data provenance and compliance across the AI development lifecycle.
+
+**Areas:** AI · Data Provenance · EU Compliance · Expert Network · Pathwize
+
+## Pathwize on APIs.io
+
+Everything profiled for Pathwize is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gopathwize-com/](https://apis.io/providers/gopathwize-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Pathwize API](https://apis.io/apis/gopathwize-com/pathwize-api/) — API reference for Pathwize, providing endpoints to create tasks, prepare data, and retrieve results.
+- [Pathwize API](https://apis.io/apis/gopathwize-com/gopathwize-com-api/) — Pathwize API as documented publicly: 16 operations. Contract generated from the documentation by API Evangelist (2026-11-10); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Gopathwize Com Webhooks](https://apis.io/asyncapis/gopathwize-com/gopathwize-com-webhooks/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1TasksTaskidResponse](https://apis.io/schemas/gopathwize-com/gopathwize-com-get-api-v1-tasks-taskid-response/)
+- [GetApiV1TasksTaskidResultsResponse](https://apis.io/schemas/gopathwize-com/gopathwize-com-get-api-v1-tasks-taskid-results-response/)
+- [GetTasksResponse](https://apis.io/schemas/gopathwize-com/gopathwize-com-get-tasks-response/)
+- [GetTasksTaskidResponse](https://apis.io/schemas/gopathwize-com/gopathwize-com-get-tasks-taskid-response/)
+- [GetTasksTaskidResultsResponse](https://apis.io/schemas/gopathwize-com/gopathwize-com-get-tasks-taskid-results-response/)
+- [PostTasksTaskidItemsRequest](https://apis.io/schemas/gopathwize-com/gopathwize-com-post-tasks-taskid-items-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gopathwize Com Context](https://apis.io/jsonld/gopathwize-com/gopathwize-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Pathwize API Rules](https://apis.io/rules/gopathwize-com/gopathwize-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pathwize Authentication](https://apis.io/security/gopathwize-com/gopathwize-com-authentication/)
+- [Pathwize Domain Security](https://apis.io/security/gopathwize-com/gopathwize-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gopathwize.com/)
+- [Documentation](https://www.gopathwize.com/docs)
+- [Getting started](https://www.gopathwize.com/help/getting-started#main)
+- [Support](https://www.gopathwize.com/help)
+- [Blog](https://www.gopathwize.com/blog)
+- [Terms of service](https://www.gopathwize.com/legal/terms)
+- [Privacy policy](https://www.gopathwize.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.5** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 60.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 30.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gopathwize-com/](https://apis.io/providers/gopathwize-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pathwize: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gopathwize-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
